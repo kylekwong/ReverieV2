@@ -1,2 +1,2 @@
-# reverie-v2
+# ReverieV2
 Let's play: make a Discord bot!
